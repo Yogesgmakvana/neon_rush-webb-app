@@ -1,7 +1,7 @@
 # Neon Rush — Endless Runner
 
 A responsive HTML/CSS/JavaScript endless runner with canvas rendering, keyboard and touch controls, synthesized sound effects, local high scores, achievements, and static information pages.
-
+![alt text](image.png)g
 ## Run locally
 
 No dependencies or build step are required.
